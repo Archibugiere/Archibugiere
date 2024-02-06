@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Emanuel Mihali, 19
+I'm Emanuel Mihali, 20
 
 - 🇪🇺 Computer engineering student at [Polimi](https://www.polimi.it),
 - 🔓 Bronze medal at the [Italian Cybersecurity Olimpics](https://olicyber.it/edizioni/2022)
